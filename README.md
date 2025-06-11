@@ -60,7 +60,7 @@ twitter-job-market-analyzer/
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/twitter-job-market-analyzer.git
+git clone https://github.com/sadhyarshi/twitter-job-market-analyzer.git
 cd twitter-job-market-analyzer
 Install required packages
 
