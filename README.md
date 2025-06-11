@@ -54,9 +54,6 @@ twitter-job-market-analyzer/
 └── docs/
 └── documentation.md
 
-yaml
-Copy
-Edit
 
 ---
 
