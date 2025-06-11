@@ -1,4 +1,6 @@
 #Twitter Job Market Analyzer
+
+
 A comprehensive Python-based solution for scraping, analyzing, and reporting on Twitter job market data. This project provides automated data collection, sentiment analysis, and professional reporting capabilities for job-related social media insights.
 
 🚀 Project Overview
