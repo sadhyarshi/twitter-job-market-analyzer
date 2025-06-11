@@ -37,24 +37,6 @@ This project consists of three main components:
 
 ---
 
-## 📁 Project Structure
-
-twitter-job-market-analyzer/
-├── README.md
-├── requirements.txt
-├── scripts/
-│ ├── twitter_scraper.py
-│ ├── comprehensive_analysis.py
-│ └── complete_pdf_generator.py
-├── data/
-│ └── sample_twitter_job_analysis.csv
-├── outputs/
-│ ├── sample_dashboard.png
-│ └── sample_report.pdf
-└── docs/
-└── documentation.md
-
-
 ---
 
 ## 🔧 Installation
