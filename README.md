@@ -4,6 +4,22 @@ A comprehensive Python-based solution for scraping, analyzing, and reporting on 
 
 ---
 
+🔧 How to Run the Project:
+
+Run twitter_scraper.py
+
+This script will scrape 2000+ tweets related to job hashtags.
+
+Output: twitter_job_analysis.csv (the raw dataset).
+
+Run complete_pdf_generator.py
+
+This script will perform data analysis and generate:
+
+A comprehensive PDF report with visual insights and executive summary
+
+A 12-panel visual dashboard (comprehensive_twitter_analysis.png)
+
 ## 🚀 Project Overview
 
 This project consists of three main components:
