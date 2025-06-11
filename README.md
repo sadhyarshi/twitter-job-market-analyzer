@@ -47,32 +47,22 @@ cd twitter-job-market-analyzer
 pip install -r requirements.txt
 Install additional dependencies:
 
-bash
-Copy
-Edit
+
 pip install selenium pandas webdriver-manager textblob matplotlib reportlab numpy
 🚀 Quick Start
 Step 1: Data Collection
 
-bash
-Copy
-Edit
+
 python scripts/twitter_scraper.py
 Collects 2000 tweets with job-related hashtags
 
 Step 2: Analysis & Visualization
 
-bash
-Copy
-Edit
 python scripts/comprehensive_analysis.py
 Generates dashboard and insights
 
 Step 3: PDF Report
 
-bash
-Copy
-Edit
 python scripts/complete_pdf_generator.py
 Creates a professional PDF report
 
@@ -140,17 +130,13 @@ Views	Integer	View count
 ⚙️ Configuration
 Inside twitter_scraper.py:
 
-python
-Copy
-Edit
+
 job_hashtags = ["naukri", "jobs", "jobseeker", "vacancy"]
 max_tweets = 2000
 headless_mode = False
 Inside analysis scripts:
 
-python
-Copy
-Edit
+
 figure_size = (20, 24)
 dpi = 300
 🔍 Sample Analysis Results
@@ -162,6 +148,3 @@ Best time to post identified
 
 Fully formatted PDF reports
 
-yaml
-Copy
-Edit
